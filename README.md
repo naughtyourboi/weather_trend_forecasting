@@ -123,3 +123,5 @@ The project generates:
 ---
 
 ## 🎥 Demo Video
+https://youtu.be/aIwE-XCv0o4
+
